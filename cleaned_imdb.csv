@@ -1,0 +1,76 @@
+ID,TITLE,RELEASE YEAR,GENRE,DURATION,COUNTRY,CONTENT RATING,DIRECTOR,INCOME,VOTES,SCORE
+tt0111161,The Shawshank Redemption,10/02/1995,Drama,142,US,R,Frank Darabont,"$28,815,245",2278.84,9.3
+tt0068646,The Godfather,21/09/1972,"Crime, Drama",175,US,R,Francis Ford Coppola,"$246,120,974",1572.67,9.2
+tt0468569,The Dark Knight,23/07/2008,"Action, Crime, Drama",152,US,PG-13,Christopher Nolan,"$1,005,455,211",2241.61,9
+tt0071562,The Godfather: Part II,25/09/1975,"Crime, Drama",220,US,R,Francis Ford Coppola,"$408,035,783",1098.71,9
+tt0110912,Pulp Fiction,28/10/1994,"Crime, Drama",127,US,R,Quentin Tarantino,"$222,831,817",1780.15,8.9
+tt0167260,The Lord of the Rings: The Return of the King,22/02/2004,"Action, Adventure, Drama",201,New Zealand,PG-13,Peter Jackson,"$1,142,271,098",1604.28,8.9
+tt0108052,Schindler's List,11/03/1994,"Biography, Drama, History",127,US,R,Steven Spielberg,"$322,287,794",1183.25,8.9
+tt0050083,12 Angry Men,04/09/1957,"Crime, Drama",96,US,Not Rated,Sidney Lumet,$576,668.47,8.9
+tt1375666,Inception,24/09/2010,"Action, Adventure, Sci-Fi",148,US,PG-13,Christopher Nolan,"$869,784,991",2002.82,8.8
+tt0137523,Fight Club,29/10/1999,Drama,127,UK,R,David Fincher,"$101,218,804",1807.44,8.8
+tt0109830,Forrest Gump,06/10/1994,"Drama, Romance",142,US,PG-13,Robert Zemeckis,"$678,229,452",1755.49,8.8
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,18/01/2002,"Action, Adventure, Drama",178,New Zealand,PG-13,Peter Jackson,"$887,934,303",1619.92,8.8
+tt0060196,"Il buono, il brutto, il cattivo",23/12/1966,Western,161,Italy,Approved,Sergio Leone,"$25,252,481",672.5,8.8
+tt0133093,The Matrix,07/05/1999,"Action, Sci-Fi",127,US,R,"Lana Wachowski, Lilly Wachowski","$465,718,588",1632.32,8.7
+tt0167261,The Lord of the Rings: The Two Towers,16/01/2003,"Action, Adventure, Drama",179,New Zealand,PG-13,Peter Jackson,"$951,227,416",1449.78,8.7
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,19/09/1980,"Action, Adventure, Fantasy",127,US,PG,Irvin Kershner,"$549,265,501",1132.07,8.7
+tt0099685,Goodfellas,20/09/1990,"Biography, Crime, Drama",146,US,R,Martin Scorsese,"$46,879,633",991.5,8.7
+tt0073486,One Flew Over the Cuckoo's Nest,18/11/1976,Drama,127,US,R,Milos Forman,"$108,997,629",891.07,8.7
+tt0816692,Interstellar,06/11/2014,"Adventure, Drama, Sci-Fi",169,US,PG-13,Christopher Nolan,"$696,742,056",1449.26,8.6
+tt0114369,Se7en,15/12/1995,"Crime, Drama, Mystery",127,US,R,David Fincher,"$327,333,559",1402.02,8.6
+tt0102926,The Silence of the Lambs,05/03/1991,"Crime, Drama, Thriller",118,US,R,Jonathan Demme,"$272,753,884",1234.13,8.6
+tt0076759,Star Wars,20/10/1977,"Action, Adventure, Fantasy",121,US,PG,George Lucas,"$775,768,912",1204.11,8.6
+tt0120815,Saving Private Ryan,30/10/1998,"Drama, War",169,US,R,Steven Spielberg,"$482,349,603",1203.83,8.6
+tt0120689,The Green Mile,03/10/2000,"Crime, Drama, Fantasy",189,US,R,Frank Darabont,"$286,801,374",1112.34,8.6
+tt0317248,Cidade de Deus,09/05/2003,"Crime, Drama",130,Brazil,R,"Fernando Meirelles, Kátia Lund","$30,680,793",685.86,8.6
+tt0245429,Sen to Chihiro no kamikakushi,18/04/2003,"Animation, Adventure, Family",125,Japan,PG,Hayao Miyazaki,"$355,467,056",626.69,8.6
+tt0038650,It's a Wonderful Life,11/03/1948,"Drama, Family, Fantasy",130,US,PG,Frank Capra,"$6,130,720",388.31,8.6
+tt0047478,Shichinin no samurai,19/08/1955,"Action, Adventure, Drama",207,Japan,Unrated,Akira Kurosawa,"$322,773",307.96,8.6
+tt0172495,Gladiator,19/05/2000,"Action, Adventure, Drama",155,US,R,Ridley Scott,"$465,361,176",1308.19,8.5
+tt0407887,The Departed,27/10/2006,"Crime, Drama, Thriller",151,US,R,Martin Scorsese,"$291,465,034",1159.7,8.5
+tt0482571,The Prestige,22/12/2006,"Drama, Mystery, Sci-Fi",130,UK,PG-13,Christopher Nolan,"$109,676,311",1155.72,8.5
+tt0088763,Back to the Future,18/10/1985,"Adventure, Comedy, Sci-Fi",116,US,PG,Robert Zemeckis,"$388,774,684",1027.33,8.5
+tt0120586,American History X,27/08/1999,Drama,119,US,R,Tony Kaye,"$23,875,127",1014.22,8.5
+tt0103064,Terminator 2: Judgment Day,19/12/1991,"Action, Sci-Fi",137,US,R,James Cameron,"$520,884,847",974.97,8.4
+tt0114814,The Usual Suspects,30/11/1995,"Crime, Mystery, Thriller",106,US,R,Bryan Singer,"$23,341,568",968.95,8.4
+tt0110357,The Lion King,25/11/1994,"Animation, Adventure, Drama",88,US,G,"Roger Allers, Rob Minkoff","$968,511,805",917.25,8.4
+tt0253474,The Pianist,25/10/2002,"Biography, Drama, Music",150,UK,R,Roman Polanski,"$120,072,577",707.94,8.4
+tt2582802,Whiplash,12/02/2015,"Drama, Music",106,US,R,Damien Chazelle,"$48,983,260",690.73,8.4
+tt0054215,Psycho,28/10/1960,"Horror, Mystery, Thriller",109,US,R,Alfred Hitchcock,"$32,008,644",586.76,8.3
+tt0034583,Casablanca,21/11/2046,"Drama, Romance, War",102,US,PG,Michael Curtiz,"$4,374,761",509.95,8.3
+tt0064116,C'era una volta il West,21/12/1968,Western,165,Italy,PG-13,Sergio Leone,"$112,911",295.22,8.3
+tt0027977,Modern Times,12/03/1937,"Comedy, Drama, Family",87,US,G,Charles Chaplin,"$457,688",211.25,8.3
+tt1345836,The Dark Knight Rises,29/08/2012,"Action, Adventure",164,UK,PG-13,Christopher Nolan,"$1,081,133,191",1480.58,8.3
+tt1853728,Django Unchained,17/01/2013,"Drama, Western",165,US,R,Quentin Tarantino,"$425,368,238",1317.86,8.3
+tt0209144,Memento,19/01/2001,"Mystery, Thriller",113,US,R,Christopher Nolan,"$39,970,386",1098.88,8.2
+tt0910970,WALL·E,17/10/2008,"Animation, Adventure, Family",98,US,G,Andrew Stanton,"$521,311,860",974.73,8.2
+tt0081505,The Shining,22/12/1980,"Drama, Horror",146,UK,R,Stanley Kubrick,"$46,520,613",869.48,8.2
+tt0082971,Raiders of the Lost Ark,12/06/1981,"Action, Adventure",115,US,PG,Steven Spielberg,"$390,133,212",865.51,8.2
+tt0078748,Alien,25/10/1979,"Horror, Sci-Fi",117,UK,R,Ridley Scott,"$108,110,316",768.87,8.2
+tt0078788,Apocalypse Now,18/12/1979,"Drama, Mystery, War",147,US,R,Francis Ford Coppola,"$91,968,688",591.25,8.2
+tt0364569,Oldeuboi,06/05/2005,"Action, Drama, Mystery",120,South Korea,R,Chan-wook Park,"$15,002,116",501.08,8.1
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,03/04/1964,Comedy,95,UK,PG,Stanley Kubrick,"$9,443,876",441.12,8.1
+tt0405094,Das Leben der Anderen,06/04/2007,"Drama, Mystery, Thriller",137,Germany,R,Florian Henckel von Donnersmarck,"$77,356,942",349.64,8.1
+tt0119698,Mononoke-hime,19/05/2000,"Animation, Adventure, Fantasy",134,Japan,PG-13,Hayao Miyazaki,"$169,785,629",331.05,8
+tt0087843,Once Upon a Time in America,28/09/1984,"Crime, Drama",229,US,R,Sergio Leone,"$5,472,914",302.32,8
+tt0361748,Inglourious Basterds,02/10/2009,"Adventure, Drama, War",153,Germany,R,Quentin Tarantino,"$321,455,689",1229.96,8
+tt0169547,American Beauty,21/01/2000,Drama,122,US,R,Sam Mendes,"$356,296,601",1049.01,8
+tt0112573,Braveheart,01/12/1995,"Biography, Drama, History",178,US,R,Mel Gibson,"$213,216,216",941.68,7.9
+tt0086190,Star Wars: Episode VI - Return of the Jedi,21/10/1983,"Action, Adventure, Fantasy",131,US,PG,Richard Marquand,"$475,347,111",928.04,7.9
+tt0105236,Reservoir Dogs,09/10/1992,"Crime, Drama, Thriller",99,US,R,Quentin Tarantino,"$2,889,963",896.55,7.9
+tt0338013,Eternal Sunshine of the Spotless Mind,22/10/2004,"Drama, Romance, Sci-Fi",108,US,R,Michel Gondry,"$74,036,715",889.88,7.9
+tt0114709,Toy Story,22/03/1996,"Animation, Adventure, Comedy",81,US,G,John Lasseter,"$404,265,438",864.46,7.9
+tt0119217,Good Will Hunting,06/03/1998,"Drama, Romance",126,US,R,Gus Van Sant,"$225,933,435",837.38,7.8
+tt0208092,Snatch,16/03/2001,"Comedy, Crime",104,UK,R,Guy Ritchie,"$83,557,872",766.59,7.8
+tt0180093,Requiem for a Dream,15/12/2000,Drama,102,US,R,Darren Aronofsky,"$7,390,108",748.29,7.8
+tt0435761,Toy Story 3,07/07/2010,"Animation, Adventure, Comedy",103,US,G,Lee Unkrich,"$1,066,969,703",739.72,7.8
+tt0211915,Le fabuleux destin d'Amélie Poulain,25/01/2002,"Comedy, Romance",122,France,R,Jean-Pierre Jeunet,"$173,924,742",690.48,7.7
+tt0090605,Aliens,24/09/1986,"Action, Adventure, Sci-Fi",137,US,R,James Cameron,"$131,384,634",63.95,7.7
+tt0062622,2001: A Space Odyssey,12/12/1968,"Adventure, Sci-Fi",149,UK,G,Stanley Kubrick,"$68,989,547",587.87,7.6
+tt0086879,Amadeus,15/02/1985,"Biography, Drama, History",160,US,R,Milos Forman,"$52,066,791",361.03,7.6
+tt2106476,Jagten,22/11/2012,Drama,115,Denmark,R,Thomas Vinterberg,"$15,843,274",269.62,7.5
+tt0056172,Lawrence of Arabia,29/10/1963,"Adventure, Biography, Drama",228,UK,PG,David Lean,"$45,710,874",261.5,7.5
+tt0070735,The Sting,21/03/1974,"Comedy, Crime, Drama",129,US,PG,George Roy Hill,"$156,000,000",236.28,7.5
+tt0082096,Das Boot,18/03/1982,"Adventure, Drama, Thriller",149,Germany,R,Wolfgang Petersen,"$11,487,676",226.43,7.5
+tt1832382,Jodaeiye Nader az Simin,21/10/2011,Drama,123,Iran,PG-13,Asghar Farhadi,"$22,926,076",214.16,7.4
